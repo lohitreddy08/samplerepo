@@ -1,6 +1,8 @@
 <template>
   <div class="home">
-    <HelloWorld message="Welcome to Your Vue.js App"/>
+    <HelloWorld>
+      <h1>Slot is Ready </h1>
+    </HelloWorld>
   </div>
 </template>
 
